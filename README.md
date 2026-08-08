@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a passionate beginner software developer who 
 - 🌱 **I’m currently learning**: HTML, CSS, JavaScript, and Git/GitHub basics.
 - 🎯 **Goals**: Build my first full portfolio website and improve my coding logic.
 - 💬 **Ask me about**: Beginner web development, tools, or learning resources.
-- 📫 **How to reach me**: [asepramadhan@email.com](mailto:asepramadhan.work@email.com)
+- 📫 **How to reach me**: [asepramadhan.work@email.com](mailto:asepramadhan.work@email.com)
 
 ---
 
