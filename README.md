@@ -24,5 +24,5 @@ Welcome to my GitHub profile! I am a passionate beginner software developer who 
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asepramadhan&theme=dark](https://streak-stats.demolab.com/?user=asepramadhan)" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=asepramadhan" alt="GitHub Streak" />
 </p>
